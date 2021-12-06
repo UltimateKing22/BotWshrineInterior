@@ -24,6 +24,10 @@ body {
 
 
 }
+.FullText {
+    display: flex;
+    flex-direction: row;
+}
 
 h1 {
     font-family: 'hyliaSerif';
